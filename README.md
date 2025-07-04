@@ -1,8 +1,3 @@
-# 👋 Hi, I'm Mahek
-
-Welcome to my GitHub profile! 🌟
-I am a sophomore at IIIT Hyderabad.<br>
-My portfolio: https://flakes22.github.io/Portfolio-mahek/
 
 ## 🛠️ Languages and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
